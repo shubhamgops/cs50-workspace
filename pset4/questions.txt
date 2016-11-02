@@ -1,0 +1,19 @@
+0.  jpeg supports 16.7 million colors, gif supports 256 colors, png supports nearly 256T, bmp supports 16 millions color.
+1.  GIF format support animation.
+2.  lossy compression reduces file by eliminating certain information which is not recoverable, whereas in lossles compression the files is reduced without loss of any infromation after uncompression we recover all the information
+3.  jpg is lossy compression where as gif and png are lossless compression format.
+4.  when file is deleted in a fat format file system it does not get deleted from the disk but its allocation from file allocation table is get deleted or it record and its file information get deleted.
+5.  i will overwrite all the data of the disk using file senitizer and slack senitizer to ensure that data will not be recoverable.
+6.  stdint.h is a header file in the C standard library introduced in the C99 standard library to allow programmers to write more portable code by providing a set of typedefs that specify exact-width integer types, together with the defined minimum and maximum allowable values for each type, using macros.
+7.  using uint8_t, uint32_t, int32_t, and uint16_t we get integer data of fixed width, specific location and exact alignment.
+8.  BYTE is of 1 byte, DWORD of 4 byte, LONG of 4 byte, WORD of 4 byte
+9.  In ascii the first two numbers be "B" and "M".
+10. bfsize is the size in bytes of bitmap file, whereas bisize is the number of the bytes required by the structure.
+11. the image is top-down and its origin is upper-left corner.
+12. biBitCount
+13. if there is no output file exist which point to.
+14. it means it reads 1 byte each time.
+15. 3
+16. fseek set the files position of the stream to the given offset.
+17. current postion of the file pointer
+18. david malan.
